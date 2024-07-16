@@ -1,0 +1,6 @@
+print("Me encanta estudiar Python")
+print("Estudiar con Python total es divertido")
+print(550+5)
+print(10/7)
+print(10-4)
+print(2*2)
